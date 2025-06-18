@@ -1,9 +1,6 @@
-# Quick AI 🧠✨
+# Quick AI 🧠
 
-<div align="center">
-  <img src="./Media/app_icon.ico" alt="Quick AI" width="120" height="120">
-  <p>A lightweight desktop application for interacting with Azure OpenAI services</p>
-</div>
+A lightweight desktop application for interacting with Azure OpenAI services</p>
 
 ## ✨ Features
 
@@ -66,10 +63,3 @@ Quick AI is built using:
 - .NET 9.0 Runtime
 - Azure OpenAI API access with a deployed model
 - Minimal system resources (runs well on any modern hardware)
-
-
----
-
-<div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/fellipeborges">Fellipe Borges</a></p>
-</div>
